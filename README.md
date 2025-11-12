@@ -321,9 +321,10 @@ MIT License - Libre para uso educativo y profesional
 
 ## 👤 Autor
 
-**Nicolás Tomás**  
+**Nicolás Tomadín**  
 GitHub: [@N1coTom55](https://github.com/N1coTom55)
 
 ---
 
 **Última actualización:** 11 de noviembre de 2025
+
